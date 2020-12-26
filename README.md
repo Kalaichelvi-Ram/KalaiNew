@@ -4,7 +4,7 @@ Welcome to all to view my Website
 
 This is my **sample website**
 
-  #It shows my information regarding Markdowntutorial
+  # It shows my information regarding Markdowntutorial
 
   _Italic_
 
