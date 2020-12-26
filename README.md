@@ -16,7 +16,5 @@ This is my **sample website**
 
   ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png).
 
-  ![Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-
   ![Cartoon](http://octodex.github.com/images/founding-father.jpg)
 
