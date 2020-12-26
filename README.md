@@ -18,5 +18,5 @@ This is my **sample website**
 
   ![Tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-  ![Father]: http://octodex.github.com/images/founding-father.jpg.
+  ![Cartoon](http://octodex.github.com/images/founding-father.jpg)
 
